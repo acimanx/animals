@@ -1,3 +1,7 @@
 elephant
 lion
 monkey
+wolf
+panda
+gepard
+tortoise
